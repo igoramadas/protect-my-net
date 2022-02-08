@@ -1,0 +1,17 @@
+# devv blog
+
+title: Protect my NET
+email: igor@devv.com
+description: Free resources to keep your home / business network secure.
+
+url: "https://protectmynet.devv.com"
+baseurl: ""
+
+github_username: igoramadas
+
+show_excerpts: true
+permalink: /:year-:month-:day-:title:output_ext
+
+theme: minima
+plugins:
+  - jekyll-feed
